@@ -88,5 +88,12 @@
       <artifactId>commons-fileupload</artifactId>
       <version>1.2.1</version>
     </dependency>
+	  <dependency>
+      <groupId>org.apache.jclouds.api</groupId>
+      <artifactId>openstack-nova</artifactId>
+      <version>1.2.1</version>
+    </dependency>
+	  
+	 
   </dependencies>
 </project>
